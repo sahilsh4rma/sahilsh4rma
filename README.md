@@ -2,8 +2,8 @@
 - 👀 I’m interested in Python Development
 - 🌱 I’m currently learning DSA
 - 💞️ Working @ Algoson Software Pvt Ltd
-- 📫 How to reach me - can contact at sahilshh4rma@gmail.com or 
-- 😄 Pronouns: let it be empty for mow.
+- 📫 How to reach me - can contact at sahilshh4rma@gmail.com
+- 😄 Pronouns: let it be empty for now.
 - ⚡ Fun fact: I always figure things out.
 
 <!---
